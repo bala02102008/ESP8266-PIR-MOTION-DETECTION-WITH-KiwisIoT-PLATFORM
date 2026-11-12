@@ -27,6 +27,9 @@ To build this project, I used the following components:
 | USB Cable | 1 |
 | Computer | 1 |
 
+<img width="1423" height="1105" alt="image" src="https://github.com/user-attachments/assets/0e48da88-92b9-4684-baf7-fa1e22e5fb41" />
+
+
 ## 💻 Software and Tools
 
 - Arduino IDE
@@ -169,6 +172,9 @@ Live Dashboard
 
 ## 📊 KiwisIoT Platform Integration
 
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/d31a9131-8d4a-4ae6-aab2-5d4077eab746" />
+
+
 One of the important parts of this project is connecting the ESP8266 to the KiwisIoT Platform.
 
 The ESP8266 sends the motion status to Channel 0.
@@ -211,6 +217,10 @@ Motion: NOT DETECTED
 Dashboard Result: **False**
 
 The project successfully detects movement and sends the status to the KiwisIoT Platform.
+
+## Real time image
+<img width="740" height="440" alt="image" src="https://github.com/user-attachments/assets/e87fe0f8-a7b9-44db-9f08-9221448a3af3" />
+
 
 ## ✨ Project Features
 
